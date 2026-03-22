@@ -82,6 +82,6 @@ Inclusion of more variables (weather, traffic, etc.)
 Cloud-based data integration for real-time updates
 👨‍💻 Author
 
-Your Name
-B.Tech (CSE) Student
+Yashvardhan Singh
+https://github.com/yashvardhansingh-x5x
 Focused on Data Analysis, Visualization, and Backend Development.
